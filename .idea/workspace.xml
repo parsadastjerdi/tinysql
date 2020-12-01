@@ -23,32 +23,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="680a5b0f-6d97-4636-9826-2a56e8f66802" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tinysql.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crail/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crail/src/ConsoleReaderInputStream.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crail/src/GraphicObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crail/src/Heap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crail/src/Pair.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crail/src/Parser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crail/src/Testing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crail/src/storageManager/Block.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crail/src/storageManager/Config.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crail/src/storageManager/Disk.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crail/src/storageManager/Field.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crail/src/storageManager/FieldType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crail/src/storageManager/MainMemory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crail/src/storageManager/Relation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crail/src/storageManager/Schema.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crail/src/storageManager/SchemaManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crail/src/storageManager/Tuple.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/parser/ParserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/parser/Parser.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -77,14 +66,21 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="parser" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -103,6 +99,7 @@
       <workItem from="1606355419474" duration="22000" />
       <workItem from="1606423575558" duration="35000" />
       <workItem from="1606796945444" duration="113000" />
+      <workItem from="1606805415634" duration="68000" />
     </task>
     <servers />
   </component>
@@ -119,12 +116,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="418" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604615540010">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="418" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1604615540010" />
+    <state x="791" y="421" width="494" height="279" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1606805459718">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="791" y="421" width="494" height="279" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.27.1920.1053@0.27.1920.1053" timestamp="1606805459718" />
     <state x="711" y="421" width="488" height="271" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1604615484547">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
