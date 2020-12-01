@@ -2,7 +2,7 @@ package tinySQL;
 
 import java.util.*;
 import java.util.ArrayList;
-import storageManager.*;
+import storage.*;
 
 public class Testing {
 

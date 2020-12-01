@@ -1,6 +1,6 @@
 package tinySQL;
 
-import storageManager.*;
+import storage.*;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Set;

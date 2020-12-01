@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="680a5b0f-6d97-4636-9826-2a56e8f66802" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tinysql.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crail/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crail/src/ConsoleReaderInputStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crail/src/GraphicObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crail/src/Heap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crail/src/Pair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crail/src/Parser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crail/src/Testing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crail/src/storageManager/Block.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crail/src/storageManager/Config.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crail/src/storageManager/Disk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crail/src/storageManager/Field.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crail/src/storageManager/FieldType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crail/src/storageManager/MainMemory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crail/src/storageManager/Relation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crail/src/storageManager/Schema.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crail/src/storageManager/SchemaManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crail/src/storageManager/Tuple.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jtDnHCQAtDac3L0RsPJzH2DkHk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tamu/csce-608/project2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="680a5b0f-6d97-4636-9826-2a56e8f66802" name="Default Changelist" comment="" />
+      <created>1604614659741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604614659741</updated>
+      <workItem from="1604614660773" duration="18000" />
+      <workItem from="1604614686842" duration="1455000" />
+      <workItem from="1606355419474" duration="22000" />
+      <workItem from="1606423575558" duration="35000" />
+      <workItem from="1606796945444" duration="113000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604615540010">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="418" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1604615540010" />
+    <state x="711" y="421" width="488" height="271" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1604615484547">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="711" y="421" width="488" height="271" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.1920.1053@0.27.1920.1053" timestamp="1604615484547" />
+    <state x="582" y="300" width="735" height="520" key="FileChooserDialogImpl" timestamp="1606423601928">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="582" y="300" width="735" height="520" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1606423601928" />
+    <state x="443" y="131" width="1024" height="852" key="SettingsEditor" timestamp="1604615362069">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="443" y="131" width="1024" height="852" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1604615362069" />
+    <state x="257" y="468" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606797011434">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="257" y="468" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1920.1053@0.27.1920.1053" timestamp="1606797011434" />
+  </component>
+</project>
