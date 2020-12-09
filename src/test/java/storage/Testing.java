@@ -1,4 +1,4 @@
-package tinySQL;
+package storage;
 
 import java.util.*;
 import java.util.ArrayList;

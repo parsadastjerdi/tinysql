@@ -1,4 +1,4 @@
-package tinySQL;
+package craildb;
 /*
  * This is straight from:
  * https://github.com/jline/jline2/blob/master/src/main/java/jline/console/internal/ConsoleReaderInputStream.java
@@ -7,7 +7,7 @@ package tinySQL;
  * internal to its package (as of Aug. 15, 2014).
  */
 
-import jline.console.ConsoleReader;
+// import jline.console.ConsoleReader;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -15,7 +15,7 @@ import java.io.PrintStream;
 import java.io.SequenceInputStream;
 import java.util.Enumeration;
 
-import jargs.gnu.CmdLineParser;
+// import jargs.gnu.CmdLineParser;
 
 /**
  * An {@link InputStream} implementation that wraps a {@link ConsoleReader}.
@@ -24,9 +24,8 @@ import jargs.gnu.CmdLineParser;
  * @author <a href="mailto:mwp1@cornell.edu">Marc Prud'hommeaux</a>
  * @since 2.7
  */
-class ConsoleReaderInputStream
-    extends SequenceInputStream
-{
+class ConsoleReaderInputStream { // extends SequenceInputStream  {
+    /*
     private static InputStream systemIn = System.in;
     protected static PrintStream err = System.err;
     protected static PrintStream out = System.out;
@@ -37,10 +36,13 @@ class ConsoleReaderInputStream
     public static void setIn(final ConsoleReader reader) {
         System.setIn(new ConsoleReaderInputStream(reader));
     }
+
+     */
  
     /**
      * Restore the original {@link System#in} input stream.
      */
+    /*
     public static void restoreIn() {
         System.setIn(systemIn);
     }
@@ -180,4 +182,6 @@ class ConsoleReaderInputStream
             exit(1);
         }
     }
+
+     */
 }

@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="tinysql" />
+        <module name="craildb" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="tinysql" target="1.5" />
+      <module name="craildb" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

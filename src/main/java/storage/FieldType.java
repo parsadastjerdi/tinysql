@@ -5,5 +5,5 @@ package storage;
  */
 
 public enum FieldType {
-	INT, STR20
+    INT, STR20
 }
